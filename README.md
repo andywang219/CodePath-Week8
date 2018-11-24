@@ -52,7 +52,7 @@ Vulnerability #1: Cross-Site Request Forgery (CSRF)
 <img src = "https://github.com/andywang219/CodePath-Week8/blob/master/Red/forgery.gif" alt = "csrf" />
 
 Steps:
-First, log into your account on the Red website and go to the "Salesperson" tab. Second, download the hacking.html file inside the Red folder. In the "Salesperson" tab, try to remember who's on there. Then open the html file that you've download. Upon opening the file, a new tab will open. Next, refresh the page and you should see that one of the name changed. 
+First, log into your account on the Red website and go to the "Salesperson" tab. Second, download the testing.html file inside the Red folder. In the "Salesperson" tab, try to remember who's on there. Then open the html file that you've download. Upon opening the file, a new tab will open. Next, refresh the page and you should see that one of the name changed. 
 
 
 Vulnerability #2: Insecure Direct Object Reference (IDOR)
